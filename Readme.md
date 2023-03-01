@@ -8,7 +8,9 @@ Special Needs Education?”. I was particularly interested in the topics of the 
 special needs children and to find out the most prominent issues in special needs education across European countries. 
 I ended up having only fifteen articles as a dataset due to the open access restriction.Therefore, I changed the category 
 from “most read” to “open access” and was able to download fifty-two articles to use as my dataset.
+My second step is to compare one review paper on Special Needs Education to the LDA results.(https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
 
+*
 
 #  -------------------------------------------------------
 
@@ -189,6 +191,19 @@ appears to be focused on the concepts of belonging and organizational placement 
 
 Looking back at my research question and what the LDA model has generated, I can assume that with the help of some additional attempts, it was possible to find out the topics/themes that are discussed in the selected articles, although in some topics, some words seem to be reappearing and made it hard to extract meaning. However, in almost every topic, there are specific words shaping the topic's central context in this analysis. On the other hand, I am not sure how it could have been possible with a large dataset to extract meaning or name each topic accordingly, with many repetitive words.
 As a summary, the first part of my research question (What are the most discussed themes/topics) is mostly answered. From the numbered topic words above, we can see the most discussed themes in the open-access articles, ranging from autism spectrum to hyperactivity, and parent-teacher relationship to home support, technology assistant teaching to the transformation of special needs children from school to job environment. In addition, the topics that I was particularly interested in (parental involvement in special needs education)seem to be appearing as well in many of the topics. Another part of my research question (the most prominent special needs education issues in European countries), has been answered partly, as the focus was more on northern countries, Finland, Sweden, Norway, and Germany. Therefore, it is hard to generalize the topics for all European countries, as the context may fail to be very relevant for every country. It could be related to the infrastructural, and bureaucratic reasons in other European countries. Unfortunately, special needs education has yet to receive the required attention in every educational system, because of the shortage of experts in the fields, lack of governmental support, and financial issues. The countries that have been giving a great deal of attention to special needs education recently, are obviously focusing on more research and studies in this field based on their experience. 
+
+
+Comparing the results with review paper on Special Needs Education. (https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
+
+The paper is called  ”Review of the Literature on Children with Special Educational Needs”. 
+This paper discusses the literature related to present research on special needs education. The review divided into four sections, and covers the most important issues in special needs education. 
+The first section refers to cross-cultural factors, as its broader spectrum, it covers a lot of problems. 
+The second part gives information on legislation about special needs education around the world, major changes and development since the establishment of Special Needs Education legislation. 
+The third part led light how the main terminology seem to refer to the same issues even though they are formed differently in USA, Canada, and Europe, what trends and changes have been observed in special needs education concepts and terms e.g., “mental handicapped”, “mental deficiency”, “intellectual disability” and so on. 
+When comparing this review paper to the LDA result of 52 articles, we may encounter with some identical patterns within cross-cultural discipline and usage of various terminology, although the LDA results mainly describe the situation in Special needs education in Europe, whereas the review paper gives more overall picture since the establishment of Special needs education legislation/concepts around the world. 
+The parental involvement that has been detected a lot in LDA result, has not been noticed in this revies paper as a main subject of topic. Instead, different models of disability (disability mode, medical model, social model. )have been categorized accordingly, which can easily be interpreted and applied to the situation of children in Special needs education. 
+In the section of Pedagogy of Special needs education, the key factors have been touched upon in the review paper which most of them could be observed within the  LDA result as well. 
+The individual education plan is the most discussed topic according to both LDA result, and the review paper. It has been one of the most effective learning strategies based on individual learning which a teacher can employ in the planning of educational procedures to meet the difficulties faced by students with intellectual disabilities (Hawsawi, 2002).  
 
 
 
