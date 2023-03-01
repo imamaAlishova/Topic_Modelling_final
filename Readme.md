@@ -8,7 +8,7 @@ Special Needs Education?”. I was particularly interested in the topics of the 
 special needs children and to find out the most prominent issues in special needs education across European countries. 
 I ended up having only fifteen articles as a dataset due to the open access restriction.Therefore, I changed the category 
 from “most read” to “open access” and was able to download fifty-two articles to use as my dataset.
-My second step is to compare one review paper on Special Needs Education to the LDA results.(https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
+My second step was to compare one review paper on Special Needs Education to the LDA results.(https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
 
 *
 
@@ -193,7 +193,7 @@ Looking back at my research question and what the LDA model has generated, I can
 As a summary, the first part of my research question (What are the most discussed themes/topics) is mostly answered. From the numbered topic words above, we can see the most discussed themes in the open-access articles, ranging from autism spectrum to hyperactivity, and parent-teacher relationship to home support, technology assistant teaching to the transformation of special needs children from school to job environment. In addition, the topics that I was particularly interested in (parental involvement in special needs education)seem to be appearing as well in many of the topics. Another part of my research question (the most prominent special needs education issues in European countries), has been answered partly, as the focus was more on northern countries, Finland, Sweden, Norway, and Germany. Therefore, it is hard to generalize the topics for all European countries, as the context may fail to be very relevant for every country. It could be related to the infrastructural, and bureaucratic reasons in other European countries. Unfortunately, special needs education has yet to receive the required attention in every educational system, because of the shortage of experts in the fields, lack of governmental support, and financial issues. The countries that have been giving a great deal of attention to special needs education recently, are obviously focusing on more research and studies in this field based on their experience. 
 
 
-Comparing the results with review paper on Special Needs Education. (https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
+How do the results relate to possible prior and related work? (https://files.eric.ed.gov/fulltext/EJ1126490.pdf)
 
 The paper is called  ”Review of the Literature on Children with Special Educational Needs”. 
 This paper discusses the literature related to present research on special needs education. The review divided into four sections, and covers the most important issues in special needs education. 
