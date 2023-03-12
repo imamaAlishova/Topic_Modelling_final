@@ -302,17 +302,17 @@ This is the most discussed topic which is possible to ecncounter in almost more 
 <strong>Autism, ADHD related issues, language difficulties, the need for parental involvement, family-teacher relationship are the topics that overlap with LDA topic modelling</strong>:
 Other studies address the challenges faced by teachers in supporting students with specific needs, such as autism and language problems. The importance of establishing a structured and predictable routine to create a stable environment for students and developing a strong relationship with the student and their family is emphasized. Early identification and intervention for children with language problems is emphasized in one study, which found that these students are at increased risk of emotional and behavioral difficulties compared to typically developing children. The importance of providing appropriate support and resources to facilitate the successful implementation of inclusive practices is also highlighted in several studies.
 
-<strong>COVID-19 Pandemic and Special Education</strong>:
+<strong>COVID-19 Pandemic and Special Education.</strong>.:
 <strong>Another overlapping topic is tecnology assisted study in special needs education during the COVID 19<strong>. 
 
 The experiences of students with special educational needs during the COVID-19 pandemic and the challenges and opportunities presented by the transition to homeschooling were also explored in some articles. These articles underscored the need for appropriate technology, support from teachers and parents, and consideration of the diverse needs of all students in designing educational practices and assessments. Parents of children with special needs faced additional barriers in navigating the educational system and advocating for their children's needs during times of crisis.
 
 
-<strong>Challenges and Opportunities of Inclusive Practices</strong>:
+<strong>Challenges and Opportunities of Inclusive Practices.</strong>:
 
 <strong>The topics that overlap with LDA topics results are: emotional difficulties, friendship among special needs students, individual educational plan, 
 collaboration with external professionals,support in promoting inclusive education and improving outcomes,
-challenges and opportunities presented by the transition from special needs assistants (SNAs) to inclusion support assistants (ISAs), Finnish and Swedish context, language difficualties, improving the educational outcomes of students, promoting a confortable environment for special needs students, co-location, resources</strong>
+challenges and opportunities presented by the transition from special needs assistants (SNAs) to inclusion support assistants (ISAs), Finnish and Swedish context, language difficualties, improving the educational outcomes of students, promoting a confortable environment for special needs students, co-location, resources.</strong>.
 
 Several studies examine the implementation of inclusive practices in Nordic countries and highlight the importance of collaboration between teachers, educational-psychological advisers, and parents in identifying and meeting the needs of students. Co-location of special and general education services is seen as a way to facilitate collaboration and enable a more efficient use of resources. Studies also highlight the importance of providing appropriate support, resources, and training to facilitate the successful implementation of inclusive education. Most parents of children with special educational needs are in favor of inclusive education, but they express concerns about the lack of resources, expertise, and training for teachers in some countries.
 The articles also discuss the importance of paraprofessional support in promoting inclusive education and improving outcomes for all students, as well as the challenges and opportunities presented by the transition from special needs assistants (SNAs) to inclusion support assistants (ISAs). The authors emphasize the need for appropriate training and professional development for teachers and support staff to facilitate effective inclusion practices.
@@ -324,7 +324,7 @@ Finally, promoting group cohesion in the classroom can have a positive impact on
 
 
 
-<strong>Conclusion</strong>:
+Conclusion:
  
 The selected articles highlight the complex and multifaceted nature of special education and the need for ongoing research, training, and support to promote inclusive practices and positive outcomes for students with special educational needs that can easily be observed in LDA results. Collaborative efforts between teachers, educational-psychological advisers, and parents are crucial in identifying and meeting the needs of students, Early identification and intervention for students with specific needs can prevent the development of emotional and behavioral difficulties. The COVID-19 pandemic has further highlighted the need for appropriate technology, support, and consideration of the diverse needs of all students. Overall, the reviewed literature emphasizes the importance of inclusive education and the need for appropriate support, resources, and training to promote the successful implementation of inclusive practices that can be observed in LDA results. 
 
@@ -332,7 +332,7 @@ Based on the LDA topic modeling results provided, there seems to be some overlap
 Topic 1, which is related to parental involvement/government role in special needs education, seems to align with some of the themes mentioned in the review paper. The article has discussed the importance of parental involvement and the role of governments in ensuring equal access to education for students with special needs.
 Topic 3, which is focused on Finnish young people's mental health and how it is supported, also appears to be relevant to the article, which has touched upon the topic of mental health support for students with special needs.The topics related to parental involvement/government role and decision-making in special needs education curriculum are both in line with the idea of ensuring equal educational opportunities for all children, including those with special needs. Similarly, the topics related to Finnish young people's mental health and the transition of preschool children with special needs to another educational setting both touch on the importance of providing support and resources for children with special needAdditionally, the topic related to friendship in the German context of special needs education in the preschool years seem to be directly covered in both. Similarly, the topic related to reading abilities/learning difficulties of Swedish special needs children is a central theme in the both articles and LDA rsult, additionally,  the raw mateterial does mention some studies related to the assessment and support of children with learning difficulties.
 However, the remaining topics may not have been mentioned in the review paper, or the paper may have touched upon these topics but not in the same context as suggested by the LDA topic modeling results.
-However, there are also some topics that are not explicitly mentioned in the review paper on selected articles such as professional development of teachers. For example. 
+However, there are also some topics that are not explicitly mentioned in the review paper on selected articles such as professional development of teachers.
 
 
 
