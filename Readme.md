@@ -295,20 +295,20 @@ Overall, the selected articles provide valuable insights for policymakers, educa
 
 These are the main topics:
 
-Teacher Support and Training:
+<strong>Teacher Support and Training</strong>.:
 This is the most discussed topic which is possible to ecncounter in almost more than half of the selected articles for LDA. A recurring theme in the reviewed literature is the importance of providing adequate training and support to teachers, particularly in the area of assessment. Studies highlight the need for ongoing professional development to support teachers in their roles and improve their self-efficacy in supporting special needs students. The professionalization of learning and support assistants (LSAs) is another topic covered in one of the articles, with the study finding that professionalization of LSAs led to positive changes in collaboration with teachers and other professionals in inclusive educational settings. This highlights the importance of appropriate training and support for all staff involved in supporting students with special educational needs.However, after carefully reviewing the LDA results, I started to question whether I did the analysis wrong, as it has not been encountered in topic modeling, or perhaps the ''words'' were hard to summarize uder the toipic of ''professional teacher development, training for teacher'', even though I can observe some related words, such as assesment, self-efficiancy in supporting special needs students. 
 
-Specific Needs of Students:
-Autism, ADHD related issues, language difficulties, the need for parental involvement, family-teacher relationship are the topics that overlap with LDA topic modelling:
+<strong>Specific Needs of Students</strong>.:
+<strong>Autism, ADHD related issues, language difficulties, the need for parental involvement, family-teacher relationship are the topics that overlap with LDA topic modelling</strong>:
 Other studies address the challenges faced by teachers in supporting students with specific needs, such as autism and language problems. The importance of establishing a structured and predictable routine to create a stable environment for students and developing a strong relationship with the student and their family is emphasized. Early identification and intervention for children with language problems is emphasized in one study, which found that these students are at increased risk of emotional and behavioral difficulties compared to typically developing children. The importance of providing appropriate support and resources to facilitate the successful implementation of inclusive practices is also highlighted in several studies.
 
-COVID-19 Pandemic and Special Education:
-Another overlapping topic is tecnology assisted study in special needs education during the COVID 19. 
+<strong>COVID-19 Pandemic and Special Education</strong>:
+<strong>Another overlapping topic is tecnology assisted study in special needs education during the COVID 19<strong>. 
 
 The experiences of students with special educational needs during the COVID-19 pandemic and the challenges and opportunities presented by the transition to homeschooling were also explored in some articles. These articles underscored the need for appropriate technology, support from teachers and parents, and consideration of the diverse needs of all students in designing educational practices and assessments. Parents of children with special needs faced additional barriers in navigating the educational system and advocating for their children's needs during times of crisis.
 
 
-Challenges and Opportunities of Inclusive Practices:
+<strong>Challenges and Opportunities of Inclusive Practices</strong>:
 
 <strong>The topics that overlap with LDA topics results are: emotional difficulties, friendship among special needs students, individual educational plan, 
 collaboration with external professionals,support in promoting inclusive education and improving outcomes,
@@ -324,7 +324,8 @@ Finally, promoting group cohesion in the classroom can have a positive impact on
 
 
 
-Conclusion:
+<strong>Conclusion</strong>:
+ 
 The selected articles highlight the complex and multifaceted nature of special education and the need for ongoing research, training, and support to promote inclusive practices and positive outcomes for students with special educational needs that can easily be observed in LDA results. Collaborative efforts between teachers, educational-psychological advisers, and parents are crucial in identifying and meeting the needs of students, Early identification and intervention for students with specific needs can prevent the development of emotional and behavioral difficulties. The COVID-19 pandemic has further highlighted the need for appropriate technology, support, and consideration of the diverse needs of all students. Overall, the reviewed literature emphasizes the importance of inclusive education and the need for appropriate support, resources, and training to promote the successful implementation of inclusive practices that can be observed in LDA results. 
 
 Based on the LDA topic modeling results provided, there seems to be some overlap with the selected articles.
