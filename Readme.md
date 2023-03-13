@@ -205,7 +205,7 @@ The parental involvement that has been detected a lot in LDA result, has not bee
 In the section of Pedagogy of Special needs education, the key factors have been touched upon in the review paper which most of them could be observed within the  LDA result as well. 
 The individual education plan is the most discussed topic according to both LDA result, and the review paper. It has been one of the most effective learning strategies based on individual learning which a teacher can employ in the planning of educational procedures to meet the difficulties faced by students with intellectual disabilities (Hawsawi, 2002).
 
-To validate the LDA results, I will thoroughly read the articles, provide concise summaries highlighting the key points, and analyze the degree of alignment between the summaries and the LDA results. This process will help me assess the reliability and trustworthiness of the LDA results in the given context.(The aligning LDA topic will be written next to the article number)
+To validate the LDA results, I will review the articles, provide concise summaries highlighting the key points, and analyze the degree of alignment between the summaries and the LDA results. This process will help me assess the reliability and trustworthiness of the LDA results in the given context.(The aligning LDA topic will be written next to the article number)
 Articles' summaries with key points:
 
 1.(Topic 5) Positive attitudes toward home schooling, particularly during COVID 19, the suggestion of creating more opportunities for teachers professional development with working special needs students
@@ -354,7 +354,7 @@ Furthermore, topics such as the Nordic context of special needs education, frien
 
 Finally, the LDA results and the articles underscore the significance of individualized instruction, appropriate accommodations, and positive relationships between teachers and students in promoting positive outcomes for students with special educational needs.
 Nonetheless, it is worth noting that the topic of professional development for teachers is notably absent among the LDA topics.
-Given the context, it would have been more precise to extract more than 20 topics. Because, due to the limitation on the number of topics, the outcome was not entirely clear at certain points, in my opinion.It is essential to note that relying solely on the LDA result for validation may not be sufficient, and it is crucial to review the raw material thoroughly to ensure the accuracy and reliability of the research outcome.
+Given the context, it would have been more precise to extract more than 20 topics. Because, due to the limitation on the number of topics, the outcome was not entirely clear at certain points, in my opinion.It is essential to note that relying solely on the LDA result for validation may not be sufficient, and it is crucial to review the raw material to ensure the accuracy and reliability of the research outcome.
 
 
 
